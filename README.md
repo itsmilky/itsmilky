@@ -133,7 +133,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmilky&theme=radical&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 </div>
-###
+
+
 <img src="https://raw.githubusercontent.com/itsmilky/itsmilky/output/snake.svg" alt="Snake animation" />
 
 ###
