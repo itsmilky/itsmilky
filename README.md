@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Milky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsmilky&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsmilky&theme=radical)
+
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=itsmilky&theme=radical&margin-w=15)
+
+## Achievements
+![Stars](https://img.shields.io/badge/Stars-1k-green)
+![Commits](https://img.shields.io/badge/Commits-564-orange)
+
