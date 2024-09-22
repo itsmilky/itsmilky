@@ -1,4 +1,6 @@
 ## Hi there 👋
+![Hacker Theme](https://img.shields.io/badge/Theme-Hacker-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![Stars](https://img.shields.io/badge/Stars-1k-green)
 ![Commits](https://img.shields.io/badge/Commits-564-orange)
 
@@ -17,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img height="200" src="https://64.media.tumblr.com/1d24da58393e01f9b04de04e87561212/848855135651e352-11/s540x810/4d5677677c5223fc74100d0ba8e2b926fb5a6011.gifv"  />
+  <img height="200" src="tumblr_1d24da58393e01f9b04de04e87561212_4d567767_540.webp"  />
 </div>
 
 ###
