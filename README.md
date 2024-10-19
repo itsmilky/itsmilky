@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left"></p>
 
 ###
 
